@@ -2,12 +2,12 @@
 
 My name is Jose Abel Ramirez Frontany, I'm from Dominican Republic, 
 
-- Github extra pin
+## Github extra pin
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jose-Abel&repo=REPO_NAME)](https://github.com/jose-Abel/RandomSVG-NFT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jose-Abel&repo=REPO_NAME)](https://github.com/jose-Abel/RandomSVG-NFT.git)
 
 
-- GitHub profile statistics (stars, commits, etc)
+## GitHub profile statistics (stars, commits, etc)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-Abel&show_icons=true&theme=tokyonight)
 
@@ -16,7 +16,7 @@ My name is Jose Abel Ramirez Frontany, I'm from Dominican Republic,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-Abel&theme=tokyonight)
 
 
-Here are some ideas to get you started:
+# Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning new technologies
 - 🌱 I’m currently learning Game Development, Smart Contracts Development, Full Stack Web Development
@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
 Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ramirez-frontany-7674a842/
+ 
 
-- ⚡ Fun fact: 
-
-- This week I spent time on
+## This week I spent time on
 
 <!--START_SECTION:waka-->
-[![jose abel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jose-Abel)]
+[![jose abel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jose-Abel)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
