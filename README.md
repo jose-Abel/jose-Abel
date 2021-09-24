@@ -4,7 +4,7 @@ My name is Jose Abel Ramirez Frontany, I'm from Dominican Republic,
 
 ## Github extra pin
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jose-Abel&repo=REPO_NAME)](https://github.com/jose-Abel/RandomSVG-NFT.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jose-Abel&repo=RandomSVG-NFT)](https://github.com/jose-Abel/RandomSVG-NFT.git)
 
 
 ## GitHub profile statistics (stars, commits, etc)
@@ -23,11 +23,11 @@ My name is Jose Abel Ramirez Frontany, I'm from Dominican Republic,
 - 👯 I’m looking to collaborate on Smart Contracts related projects 
 - 📫 How to reach me: 
 
-Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ramirez-frontany-7674a842/
+Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ramirez-frontany-7674a842/)
  
 
 ## This week I spent time on
 
 <!--START_SECTION:waka-->
-[![jose abel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jose-Abel)](https://github.com/anuraghazra/github-readme-stats)
+[![jose abel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joseAbel)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
