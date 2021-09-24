@@ -27,7 +27,5 @@ Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ram
 ## This week I spent time on
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+[![jose abel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joseAbel)]
 <!--END_SECTION:waka-->
