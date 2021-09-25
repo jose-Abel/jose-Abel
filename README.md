@@ -28,6 +28,10 @@ Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ram
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 September, 2021 - 24 September, 2021
+
+JavaScript   3 hrs 15 mins   ████████████████▒░░░░░░░░   65.85 % 
+Markdown     1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.71 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
