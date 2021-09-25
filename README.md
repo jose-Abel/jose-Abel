@@ -3,7 +3,7 @@
 My name is Jose Abel Ramirez Frontany, I'm student of Microverse learning Full Stack Web Development.
 
 - 🔭 I’m currently working on learning new technologies
-- 🌱 I’m currently learning Game Development, Smart Contracts Development, Full Stack Web Development
+- 🌱 I’m currently learning Full Stack Web Development, Smart Contracts Development, Game Development
 - 👯 I’m looking to collaborate on Smart Contracts related projects 
 - 📫 How to reach me: 
 
