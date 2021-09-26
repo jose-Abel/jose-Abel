@@ -25,6 +25,6 @@ Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ram
 
 <!--START_SECTION:waka-->
 
-<img src="https://github.com/jose-Abel/jose-Abel/blob/main/images/stat.svg" alt="Alternative Text"/>
+![jose abel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joseAbel&v=2)
 
 <!--END_SECTION:waka-->
