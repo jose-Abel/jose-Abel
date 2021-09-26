@@ -4,15 +4,14 @@ My name is Jose Abel Ramirez Frontany, I'm student of Microverse learning Full S
 
 - 🔭 I’m currently working on learning new technologies
 - 🌱 I’m currently learning Full Stack Web Development, Smart Contracts Development, Game Development
-- 👯 I’m looking to collaborate on Smart Contracts related projects 
-- 📫 How to reach me: 
+- 👯 I’m looking to collaborate on Smart Contracts related projects
+- 📫 How to reach me:
 
 Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ramirez-frontany-7674a842/)
 
 ## Github extra pin
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jose-Abel&repo=RandomSVG-NFT)](https://github.com/jose-Abel/RandomSVG-NFT.git)
-
 
 ## GitHub profile statistics (stars, commits, etc)
 
@@ -22,14 +21,10 @@ Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ram
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-Abel&theme=tokyonight)
 
- 
-
 ## This week I spent time on
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   3 hrs 15 mins   ████████████████▒░░░░░░░░   65.85 % 
-Markdown     1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.71 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-```
+
+https://github-readme-stats.vercel.app/api/wakatime?username=joseAbel&v=2
+
 <!--END_SECTION:waka-->
