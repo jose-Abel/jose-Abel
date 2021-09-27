@@ -24,7 +24,10 @@ Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ram
 ## This week I spent time on
 
 <!--START_SECTION:waka-->
-
-![jose abel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joseAbel&v=2)
-
+```text
+JavaScript   3 hrs 52 mins   ████████████████░░░░░░░░░   64.62 % 
+Markdown     2 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.35 % 
+C#           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
 <!--END_SECTION:waka-->
