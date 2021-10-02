@@ -25,10 +25,10 @@ Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ram
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 hrs 15 mins  █████████████████▓░░░░░░░   70.62 % 
-Markdown     2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-C#           1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+JavaScript   20 hrs 25 mins  ███████████████████▓░░░░░   78.60 % 
+Markdown     2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+C#           1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
