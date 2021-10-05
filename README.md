@@ -11,7 +11,7 @@ Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ram
 
 ## Github extra pin
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jose-Abel&repo=RandomSVG-NFT)](https://github.com/jose-Abel/Ethereum-NFT.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jose-Abel&repo=Ethereum-NFT)](https://github.com/jose-Abel/Ethereum-NFT.git)
 
 ## GitHub profile statistics (stars, commits, etc)
 
