@@ -7,7 +7,7 @@ My name is Jose Abel Ramirez Frontany, I'm a Microverse student learning to beco
 - 👯 I’m looking to collaborate on Smart Contracts related projects
 - 📫 How to reach me:
 
-Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ramirez-frontany-7674a842/)
+Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-r-7674a842/)
 
 ## Github extra pin
 
