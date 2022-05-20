@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Jose Abel Ramirez Frontany, I'm a Microverse student learning to become a Full Stack Web Development.
+My name is Jose Abel Ramirez Frontany, I'm a Full Stack Web Development, specialized in Rails React Framework.
 
 - 🔭 I’m currently learning new technologies
-- 🌱 I’m currently learning Full Stack Web Development, Smart Contracts Development, Game Development
-- 👯 I’m looking to collaborate on Smart Contracts related projects
+- 🌱 I’m currently learning Swift, Smart Contracts Development and Game Development
+- 👯 I’m looking to collaborate on amazing and impactfull software projects
 - 📫 How to reach me:
 
-Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-r-7674a842/)
+Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/joseabelramirezfrontany/)
 
 ## Github extra pin
 
