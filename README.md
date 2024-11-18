@@ -19,7 +19,7 @@ Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/joseabelramir
 
 ## Most used languages in my repositories
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-Abel&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-Abel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## This week I spent time on
 
